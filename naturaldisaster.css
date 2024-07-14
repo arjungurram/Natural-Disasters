@@ -1,0 +1,64 @@
+body{
+text-align:center;
+background-color:navy;
+color:cyan;
+}
+h1{
+color: blue;
+background-color: gold;
+border:3px groove black;
+outline: 2px dotted red;
+text-shadow:2px 1px 1px coral;
+}
+p{
+color:gold;
+}
+iframe{
+border: 3px solid pink;
+margin-top:20px;
+margin-bottom:20px;
+}
+img{
+height:200px;
+width:250px;
+border-radius:20px;
+border: 3px solid red;
+margin-right:100px;
+margin-left:100px;
+}
+#homepic{
+margin-right:50px;
+margin-left:50px;
+}
+#a1 {
+font-family: Bree Serif;
+color: red;
+font-size: 50px;
+text-shadow: 1px 3px 2px gold;
+background-color: navy;
+border-color:navy;
+}
+#a{
+color: red;
+text-shadow: 1px 3px 2px crimson;
+font-size: 18px;
+margin: 10px;
+font-family: georgia, serif;
+}
+#a:hover{
+color: gold;
+}
+#b{
+color: red;
+text-shadow: 1px 3px 2px crimson;
+font-size: 22px;
+margin: 10px;
+font-family: georgia, serif;
+}
+#b:hover{
+color: gold;
+}
+hr{
+border:3px groove blue;
+opacity:1;
+}
